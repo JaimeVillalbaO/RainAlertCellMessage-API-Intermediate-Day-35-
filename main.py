@@ -9,8 +9,8 @@ auth_token = os.environ.get('auth_token')
 
 parameters = {
     'appid' : '4e86514e93eee1398fca589e03c09d8f', 
-    'lat' : -16.483610, 
-    'lon' : 145.465271,
+    'lat' : -34.673820, 
+    'lon' : 150.844376,
     'units' : 'metric', 
     'cnt' : 4
 }
